@@ -21,7 +21,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Abdul-was-here&style=flat)
 
-<div align="center">
+//<div align="center">
   
 ### Projects under construction 🏗️🚧👇👇👇
   
