@@ -17,6 +17,8 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
+---
+
 ![](https://komarev.com/ghpvc/?username=Abdul-was-here&style=flat)
 
 <div align="center">
