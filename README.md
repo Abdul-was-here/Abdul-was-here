@@ -16,6 +16,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Abdul-was-here&icon=5&color=12)](https://visitcount.itsvg.in)
+
+![](https://komarev.com/ghpvc/?username=Abdul-was-here&style=flat)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
