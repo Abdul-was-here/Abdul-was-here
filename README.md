@@ -1,7 +1,7 @@
 # Kia ora, I'm Abdul <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>
 
 # 💫 About Me:
-🔭 I’m currently working on my Skills..<br>🌱 I’m currently doubled majored in Network, Cybersecurity and Software Development.<br>🤔 I’m looking for coding friends.<br>💬 Ask me about any tech-related stuff.<br>📫 How to reach me: Email - kkf2679@autuni.ac.nz<br>⚡ Fun fact: My favorite song is Life Goes On by Oliver Tree.<br>🤖 Beep-bee-bee-boop-bee-doo-weep!!
+🔭 I’m currently working on my Skills..<br>🌱 I’m currently doubled majored in Network, Cybersecurity and Software Development.<br>💬 Ask me about any tech-related stuff.<br>📫 How to reach me: Email - kkf2679@autuni.ac.nz<br>⚡ Fun fact: My favorite song is Life Goes On by Oliver Tree.<br>🤖 Beep-bee-bee-boop-bee-doo-weep!!
 
 
 # 💻 Tech Stack:
